@@ -1,4 +1,4 @@
-![adam](https://github.com/user-attachments/assets/67bc8295-d3e3-4ec1-9eb4-07b7f39c7c1c)# snake_game
+ snake_game
 Our adventure game snake game by python Based on turtle library
 
 Classic Snake Game with Turtle
